@@ -4,7 +4,7 @@ Código auxiliar R
 ----
 
 
-* [scrape wikipedia table]()
+* [scrape wikipedia table](https://github.com/TuQmano/Code-WIP/blob/master/wiki_scrape.R)
                  
                  
                  
